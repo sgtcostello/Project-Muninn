@@ -1,0 +1,1 @@
+Mantis gripper (MG90S servo) for EEZYbotARM MK2 by robolab19 on Thingiverse: https://www.thingiverse.com/thing:5242453
