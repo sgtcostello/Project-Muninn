@@ -1,0 +1,28 @@
+// ** MUNINN HEAD DESIGN NOTES **
+
+// ...Features...:
+// Beak grip capable of holding, lifting, and manipulating small objects in proximity of robot
+// Neck movement to mimic an organic raven
+// RGB LED 'eyes' to simulate sight and emotional feedback
+// ArduCam connected to Raspberry Pi 4 model b for image processing
+
+Neck Movement on Pan/Tilt Servo
+	many_attempts_later(pantilt3.models){
+// Spent most of December trying different files for neck pan+rotate
+}
+
+Beak Grip Mantis-style on single MG90s servo
+	many_attempts_later(beak-assembly.models){
+// Spent most of December 2024 and first two weeks of January 2025 trying different files and configurations
+}
+
+1.13.25 Model and Print Notes: 
+	attempt_1(eye-cam-mount.models){	
+	supports too thick, difficult to remove, too much overhang next to fragile legs; 
+	slots for ArduCam too small, expand out slot 4mm wide, camera slot 1mm wide;
+	too much excess material;
+}
+
+	attempt_2(eye-cam-mount2.models){
+	Modeling in Progress;
+}
